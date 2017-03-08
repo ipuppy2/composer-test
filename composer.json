@@ -1,0 +1,11 @@
+{
+    "name": "puppy/test-pagckage",
+    "description": "test",
+    "authors": [
+        {
+            "name": "puppy",
+            "email": "971366114@qq.com"
+        }
+    ],
+    "require": {}
+}
